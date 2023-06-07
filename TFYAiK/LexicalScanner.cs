@@ -29,7 +29,7 @@ namespace TFYAiK
 
             public override string ToString()
             {
-                return $"{startPosition}:{endPosition}  {item}: {lexicalCode}: {Convert.ToInt16(lexicalCode)}";
+                return $"{startPosition}:{endPosition}  [{item}]: {lexicalCode}: {Convert.ToInt16(lexicalCode)}";
             }
         }
 
@@ -219,7 +219,28 @@ namespace TFYAiK
                     }
                     subString = "";
                 }
-
+                // Может быть строкой
+                if (c == '"')
+                {
+                    int start = i + 1;
+                    while ((i < inputString.Length))
+                    {
+                        subString += inputString[i];
+                        i++;
+                        if (inputString[i] == '"')
+                        {
+                            subString += inputString[i];
+                            i++;
+                            parts.Add(new LexicalItem(Codes.StringConstCode, subString, start, i));
+                            break;
+                        }
+                        if (i == inputString.Length - 1)
+                        {
+                            parts.Add(new LexicalItem(Codes.ErrorCode, subString, start, i + 1));
+                            return parts;
+                        }
+                    }
+                }
                 if (Char.IsWhiteSpace(c))
                 {
                     parts.Add(new LexicalItem(Codes.SpaceConstCode, c.ToString(), i + 1, i + 1));

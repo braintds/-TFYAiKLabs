@@ -252,8 +252,11 @@
   <data name="debugTextBox.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="debugTextBox.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
   <data name="debugTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>903, 90</value>
+    <value>901, 88</value>
   </data>
   <data name="debugTextBox.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
