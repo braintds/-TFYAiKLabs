@@ -1,0 +1,83 @@
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.AssemblyReference.cache
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.SuggestedBindingRedirects.cache
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+C:\Users\linat\source\repos\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.AssemblyReference.cache
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.SuggestedBindingRedirects.cache
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+E:\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+E:\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+E:\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csprojAssemblyReference.cache
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.HelpForm.resources
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+E:\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.AssemblyReference.cache
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.SuggestedBindingRedirects.cache
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.HelpForm.resources
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+C:\Users\linat\OneDrive\Рабочий стол\КУРСОВАЯ\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\bin\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\bin\Debug\ru\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ja-JP.resources
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ru.resources
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK\TFYAiK\TFYAiK\obj\Debug\ru\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\ru\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.AssemblyReference.cache
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ja-JP.resources
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ru.resources
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\ru\TFYAiK.resources.dll
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+C:\Users\frees\source\repos\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.AssemblyReference.cache
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.resources
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.Properties.Resources.resources
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ja-JP.resources
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.MainForm.ru.resources
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.GenerateResource.cache
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.csproj.CoreCompileInputs.cache
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.exe
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\TFYAiK.pdb
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe.config
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.exe
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\TFYAiK.pdb
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\bin\Debug\ru\TFYAiK.resources.dll
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\ja-JP\TFYAiK.resources.dll
+C:\Users\frees\OneDrive\Desktop\ТОКА АЛИНА\.PRIVATEDISK\Кирилл курсовая\TFYAiK мой курсач\TFYAiK\TFYAiK\obj\Debug\ru\TFYAiK.resources.dll
